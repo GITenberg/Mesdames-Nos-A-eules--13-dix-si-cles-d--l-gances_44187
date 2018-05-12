@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1043
     wikipedia: http://en.wikipedia.org/wiki/Albert_Robida
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44187#Mesdames-Nos-A-eules--13-dix-si-cles-d--l-gances
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2013-11-15'
 gutenberg_type: Text
