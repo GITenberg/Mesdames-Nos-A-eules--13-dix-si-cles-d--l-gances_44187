@@ -1,0 +1,30 @@
+_repo: Mesdames-Nos-A-eules--13-dix-si-cles-d--l-gances_44187
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44187-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Robida
+description: Illustrated by the author.
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2013-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44187'
+  lccn: ltf91004451
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Costume -- France -- History'
+title: 'Mesdames Nos Aïeules: dix siècles d''élégances'
+url: http://www.gutenberg.org/ebooks/44187
